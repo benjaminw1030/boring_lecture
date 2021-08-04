@@ -1,10 +1,4 @@
-h2.intro {
+.intro {
   font-size: 30px;
   color: grey;
-}
-p.intro {
-  text-align: center;
-}
-img.intro {
-  border: 5px solid grey;
 }
